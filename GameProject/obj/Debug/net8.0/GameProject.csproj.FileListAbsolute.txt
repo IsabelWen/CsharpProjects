@@ -1,0 +1,14 @@
+C:\Isabel\Coding\CsharpProjects\GameProject\bin\Debug\net8.0\GameProject.exe
+C:\Isabel\Coding\CsharpProjects\GameProject\bin\Debug\net8.0\GameProject.deps.json
+C:\Isabel\Coding\CsharpProjects\GameProject\bin\Debug\net8.0\GameProject.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\GameProject\bin\Debug\net8.0\GameProject.dll
+C:\Isabel\Coding\CsharpProjects\GameProject\bin\Debug\net8.0\GameProject.pdb
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\GameProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\GameProject.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\GameProject.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\GameProject.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\GameProject.dll
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\refint\GameProject.dll
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\GameProject.pdb
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\GameProject.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\GameProject\obj\Debug\net8.0\ref\GameProject.dll

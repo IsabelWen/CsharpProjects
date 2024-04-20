@@ -1,0 +1,14 @@
+C:\Isabel\Coding\CsharpProjects\JackpotProject\bin\Debug\net8.0\JackpotProject.exe
+C:\Isabel\Coding\CsharpProjects\JackpotProject\bin\Debug\net8.0\JackpotProject.deps.json
+C:\Isabel\Coding\CsharpProjects\JackpotProject\bin\Debug\net8.0\JackpotProject.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\JackpotProject\bin\Debug\net8.0\JackpotProject.dll
+C:\Isabel\Coding\CsharpProjects\JackpotProject\bin\Debug\net8.0\JackpotProject.pdb
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.dll
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\refint\JackpotProject.dll
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.pdb
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\ref\JackpotProject.dll
