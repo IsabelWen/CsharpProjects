@@ -28,7 +28,7 @@ class Eurojackpot
                 nextNum = num.Next(1, 51);
             } while (nextNum == 19 || nextNum == 49 || Array.IndexOf(numbers, nextNum) != -1);
             numbers[i] = nextNum;
-            Console.Write($"{numbers[i]}, ");
+            Console.Write($"{numbers[i]} ");
         }
 
         Console.WriteLine("\nEuronumbers:");
@@ -42,7 +42,7 @@ class Eurojackpot
                 nextEuronum = num.Next(1, 13);
             } while (nextEuronum == 5 || Array.IndexOf(euronumbers, nextEuronum) != -1);
             euronumbers[i] = nextEuronum;
-            Console.Write($"{euronumbers[i]}, ");
+            Console.Write($"{euronumbers[i]} ");
             }
     }
 }
