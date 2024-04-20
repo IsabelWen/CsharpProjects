@@ -12,7 +12,7 @@ class Eurojackpot
         int[] euronumbers = new int[2];
         
         // Choose a special number
-        int[] specialNumbers = { 1, 5, 8, 11, 13, 22 };
+        int[] specialNumbers = { 1, 8, 11, 13 };
         int special = specialNumbers[num.Next(specialNumbers.Length)];
 
         Console.WriteLine($"Special number: {special}");

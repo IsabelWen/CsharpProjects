@@ -12,3 +12,4 @@ C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\refint\JackpotPr
 C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.pdb
 C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.genruntimeconfig.cache
 C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\ref\JackpotProject.dll
+C:\Isabel\Coding\CsharpProjects\JackpotProject\obj\Debug\net8.0\JackpotProject.sourcelink.json
