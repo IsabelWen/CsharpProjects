@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\ArraysProject\bin\Debug\net8.0\ArraysProject.exe
+C:\Isabel\Coding\CsharpProjects\ArraysProject\bin\Debug\net8.0\ArraysProject.deps.json
+C:\Isabel\Coding\CsharpProjects\ArraysProject\bin\Debug\net8.0\ArraysProject.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\ArraysProject\bin\Debug\net8.0\ArraysProject.dll
+C:\Isabel\Coding\CsharpProjects\ArraysProject\bin\Debug\net8.0\ArraysProject.pdb
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ArraysProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ArraysProject.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ArraysProject.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ArraysProject.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ArraysProject.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ArraysProject.dll
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\refint\ArraysProject.dll
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ArraysProject.pdb
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ArraysProject.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\ArraysProject\obj\Debug\net8.0\ref\ArraysProject.dll
