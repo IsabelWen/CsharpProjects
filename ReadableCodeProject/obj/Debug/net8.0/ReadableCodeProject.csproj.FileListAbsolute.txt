@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\bin\Debug\net8.0\ReadableCodeProject.exe
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\bin\Debug\net8.0\ReadableCodeProject.deps.json
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\bin\Debug\net8.0\ReadableCodeProject.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\bin\Debug\net8.0\ReadableCodeProject.dll
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\bin\Debug\net8.0\ReadableCodeProject.pdb
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ReadableCodeProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ReadableCodeProject.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ReadableCodeProject.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ReadableCodeProject.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ReadableCodeProject.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ReadableCodeProject.dll
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\refint\ReadableCodeProject.dll
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ReadableCodeProject.pdb
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ReadableCodeProject.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\ReadableCodeProject\obj\Debug\net8.0\ref\ReadableCodeProject.dll
