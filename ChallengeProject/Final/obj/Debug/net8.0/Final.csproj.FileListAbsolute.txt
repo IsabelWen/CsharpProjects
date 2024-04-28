@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\bin\Debug\net8.0\Final.exe
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\bin\Debug\net8.0\Final.deps.json
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\bin\Debug\net8.0\Final.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\bin\Debug\net8.0\Final.dll
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\bin\Debug\net8.0\Final.pdb
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\Final.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\Final.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\Final.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\Final.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\Final.dll
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\refint\Final.dll
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\Final.pdb
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\Final.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\ChallengeProject\Final\obj\Debug\net8.0\ref\Final.dll
