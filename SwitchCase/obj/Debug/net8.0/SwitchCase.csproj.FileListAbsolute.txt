@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\SwitchCase\bin\Debug\net8.0\SwitchCase.exe
+C:\Isabel\Coding\CsharpProjects\SwitchCase\bin\Debug\net8.0\SwitchCase.deps.json
+C:\Isabel\Coding\CsharpProjects\SwitchCase\bin\Debug\net8.0\SwitchCase.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\SwitchCase\bin\Debug\net8.0\SwitchCase.dll
+C:\Isabel\Coding\CsharpProjects\SwitchCase\bin\Debug\net8.0\SwitchCase.pdb
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\SwitchCase.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\SwitchCase.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\SwitchCase.dll
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\refint\SwitchCase.dll
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\SwitchCase.pdb
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\SwitchCase.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\SwitchCase\obj\Debug\net8.0\ref\SwitchCase.dll
