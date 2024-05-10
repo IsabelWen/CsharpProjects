@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\ForLoop\bin\Debug\net8.0\ForLoop.exe
+C:\Isabel\Coding\CsharpProjects\ForLoop\bin\Debug\net8.0\ForLoop.deps.json
+C:\Isabel\Coding\CsharpProjects\ForLoop\bin\Debug\net8.0\ForLoop.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\ForLoop\bin\Debug\net8.0\ForLoop.dll
+C:\Isabel\Coding\CsharpProjects\ForLoop\bin\Debug\net8.0\ForLoop.pdb
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ForLoop.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ForLoop.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ForLoop.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ForLoop.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ForLoop.dll
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\refint\ForLoop.dll
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ForLoop.pdb
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ForLoop.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\ForLoop\obj\Debug\net8.0\ref\ForLoop.dll
