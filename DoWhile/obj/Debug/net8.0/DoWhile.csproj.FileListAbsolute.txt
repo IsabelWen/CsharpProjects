@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.exe
+C:\Isabel\Coding\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+C:\Isabel\Coding\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.dll
+C:\Isabel\Coding\CsharpProjects\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.dll
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll
