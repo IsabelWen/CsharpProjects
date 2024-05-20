@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Isabel\\Coding\\CsharpProjects\\ChallengeProject_2\\Starter\\Starter.csproj": {}
+    "C:\\Isabel\\Coding\\CsharpProjects\\IntegralTypes\\IntegralTypes.csproj": {}
   },
   "projects": {
-    "C:\\Isabel\\Coding\\CsharpProjects\\ChallengeProject_2\\Starter\\Starter.csproj": {
+    "C:\\Isabel\\Coding\\CsharpProjects\\IntegralTypes\\IntegralTypes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Isabel\\Coding\\CsharpProjects\\ChallengeProject_2\\Starter\\Starter.csproj",
-        "projectName": "Starter",
-        "projectPath": "C:\\Isabel\\Coding\\CsharpProjects\\ChallengeProject_2\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Isabel\\Coding\\CsharpProjects\\IntegralTypes\\IntegralTypes.csproj",
+        "projectName": "IntegralTypes",
+        "projectPath": "C:\\Isabel\\Coding\\CsharpProjects\\IntegralTypes\\IntegralTypes.csproj",
         "packagesPath": "C:\\Users\\isabe\\.nuget\\packages\\",
-        "outputPath": "C:\\Isabel\\Coding\\CsharpProjects\\ChallengeProject_2\\Starter\\obj\\",
+        "outputPath": "C:\\Isabel\\Coding\\CsharpProjects\\IntegralTypes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\isabe\\AppData\\Roaming\\NuGet\\NuGet.Config"

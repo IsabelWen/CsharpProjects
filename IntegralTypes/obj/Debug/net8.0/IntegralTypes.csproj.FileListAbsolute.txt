@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\bin\Debug\net8.0\IntegralTypes.exe
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\bin\Debug\net8.0\IntegralTypes.deps.json
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\bin\Debug\net8.0\IntegralTypes.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\bin\Debug\net8.0\IntegralTypes.dll
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\bin\Debug\net8.0\IntegralTypes.pdb
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\IntegralTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\IntegralTypes.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\IntegralTypes.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\IntegralTypes.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\IntegralTypes.dll
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\refint\IntegralTypes.dll
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\IntegralTypes.pdb
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\IntegralTypes.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\IntegralTypes\obj\Debug\net8.0\ref\IntegralTypes.dll
