@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\bin\Debug\net8.0\ConvertDatatypes.exe
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\bin\Debug\net8.0\ConvertDatatypes.deps.json
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\bin\Debug\net8.0\ConvertDatatypes.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\bin\Debug\net8.0\ConvertDatatypes.dll
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\bin\Debug\net8.0\ConvertDatatypes.pdb
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ConvertDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ConvertDatatypes.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ConvertDatatypes.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ConvertDatatypes.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ConvertDatatypes.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ConvertDatatypes.dll
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\refint\ConvertDatatypes.dll
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ConvertDatatypes.pdb
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ConvertDatatypes.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\ConvertDatatypes\obj\Debug\net8.0\ref\ConvertDatatypes.dll
