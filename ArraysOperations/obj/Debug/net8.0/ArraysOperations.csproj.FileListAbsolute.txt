@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\bin\Debug\net8.0\ArraysOperations.exe
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\bin\Debug\net8.0\ArraysOperations.deps.json
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\bin\Debug\net8.0\ArraysOperations.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\bin\Debug\net8.0\ArraysOperations.dll
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\bin\Debug\net8.0\ArraysOperations.pdb
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ArraysOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ArraysOperations.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ArraysOperations.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ArraysOperations.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ArraysOperations.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ArraysOperations.dll
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\refint\ArraysOperations.dll
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ArraysOperations.pdb
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ArraysOperations.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\ArraysOperations\obj\Debug\net8.0\ref\ArraysOperations.dll
