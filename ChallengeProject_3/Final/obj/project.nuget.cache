@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cPBwdWZ7QYHWd8AUW2vWuqB8qaKcdCdgl47gCInBRD4XLwv9AQwH1gHzAiZ1Jgb9+WYacQ3oAShQ+afVlzQvng==",
+  "success": true,
+  "projectFilePath": "C:\\Isabel\\Coding\\CsharpProjects\\ChallengeProject_3\\Final\\Final.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\isabe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
