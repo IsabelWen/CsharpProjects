@@ -1,0 +1,15 @@
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\bin\Debug\net8.0\CsharpMethods.exe
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\bin\Debug\net8.0\CsharpMethods.deps.json
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\bin\Debug\net8.0\CsharpMethods.runtimeconfig.json
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\bin\Debug\net8.0\CsharpMethods.dll
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\bin\Debug\net8.0\CsharpMethods.pdb
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\CsharpMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\CsharpMethods.AssemblyInfoInputs.cache
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\CsharpMethods.AssemblyInfo.cs
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\CsharpMethods.csproj.CoreCompileInputs.cache
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\CsharpMethods.sourcelink.json
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\CsharpMethods.dll
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\refint\CsharpMethods.dll
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\CsharpMethods.pdb
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\CsharpMethods.genruntimeconfig.cache
+C:\Isabel\Coding\CsharpProjects\CsharpMethods\obj\Debug\net8.0\ref\CsharpMethods.dll

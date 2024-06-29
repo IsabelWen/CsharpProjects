@@ -171,7 +171,7 @@ do
 
                     // Search combined descriptions and report results
                     dogDescription = ourAnimals[i, 4] + "\n" + ourAnimals[i, 5];
-                    bool matchesCurrentDog;
+                    bool matchesCurrentDog = false;
 
                     foreach (string term in dogSearches)
                     {
